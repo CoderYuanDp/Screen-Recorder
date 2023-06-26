@@ -8,7 +8,7 @@
 ## 克隆项目
 ```
 npm i
-npm rn dev
+npm run dev
 ```
 
 ## 后期预计增加功能
